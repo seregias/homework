@@ -1,0 +1,241 @@
+body {
+    background: #181e34;
+    font-family: "Montserrat", "Arial" sans-serif;
+    font-size: 16px;
+    line-height: 150%;
+    color: #fff;
+    font-weight: 400;
+}
+
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 15px;
+    height: 114px;
+}
+
+.header-inner {
+    display: flex;
+    align-items: center;
+
+}
+
+.header-nav {
+    margin-left: auto;
+}
+
+.header-list {
+    display: flex;
+}
+
+.header-item {
+    margin-right: 30px;
+}
+
+.header-button {
+    border-radius: 100px;
+    padding: 14px 30px;
+    width: 113px;
+    height: 48px;
+    background: #fff;
+    color: #2766ae;
+}
+
+.header {
+    padding: 30 0 36;
+}
+
+
+.element {
+    background: url(../img/hero-bg.jpg) 8% 59% / cover no-repeat;
+    height: 600px;
+    padding: 120px 0;
+}
+
+.element-title {
+    font-weight: 600;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: var(--belyy);
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.element-first {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.element-text {
+    max-width: 436px;
+    max-height: 72px;
+}
+
+.element-text span {
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #01a2cb;
+}
+
+
+.paragraph {
+    margin-bottom: 15px;
+}
+
+.element-buttons {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 320px;
+}
+
+.element-button1 {
+    background: linear-gradient(180deg, #00a4cc 0%, #2766ae 100%);
+    max-width: 320px;
+    padding: 18px 30px;
+    border-radius: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.element-button2 {
+    background: linear-gradient(129deg, #00a4cc 0%, #2766ae 100%);
+    padding: 18px 30px;
+    border-radius: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.element-button2 img {
+    margin-left: 4px;
+}
+
+/* ========================================================================================================================= */
+
+.element2 {
+    padding: 120px;
+    padding-bottom: 600px;
+}
+
+.element-title2 {
+    font-weight: 600;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: var(--belyy);
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.element-text2 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    color: var(--belyy);
+}
+
+
+.cardsinsidetitle {
+    font-weight: 600;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: var(--belyy);
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+.cards-flex-item {
+    border: 2px solid #176bae;
+    border-radius: 16px;
+    padding: 28px;
+    width: 204px;
+    height: 141px;
+    box-shadow: 4px 4px 13px 0 rgba(5, 13, 41, 0.76);
+    background: #197cb8;
+    margin: 20px;
+    padding: 28px 15px;
+
+}
+
+.cardsinsidetext {
+    line-height: 24px;
+    text-align: center;
+    color: var(--belyy);
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.element-flex {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -28px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+.container2 {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 15px;
+    height: 114px;
+}
+
+/* ===================================================================================== */
+
+.footer {
+    border-top: 1px solid #323952;
+    width: 1440px;
+    height: 361px;
+    padding: 60 0;
+
+}
+
+.footer-element {
+    display: flex;
+
+}
+
+.footerleft img {
+    margin: 16px;
+}
+
+.footerleft {
+    max-width: 267px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-title {
+    font-weight: 600;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.footer-list2 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+
+}
+
+.footer-middle {
+    max-width: 204px;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.footer-mid-list {
+    margin-bottom: 10px;
+}
+.footer-right {
+    padding-top: 20px;
+}
